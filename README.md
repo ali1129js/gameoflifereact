@@ -20,4 +20,4 @@ The universe of the Game of Life is an infinite two-dimensional orthogonal grid 
 The initial pattern constitutes the seed of the system. The first generation is created by applying the above rules simultaneously to every cell in the seed—births and deaths occur simultaneously, and the discrete moment at which this happens is sometimes called a tick (in other words, each generation is a pure function of the preceding one). The rules continue to be applied repeatedly to create further generations.
 
 
-![ScreenShot](/src/ss.png)
+![ScreenShot](https://github.com/ali1129js/gameoflife/blob/gh-pages/src/ss.png)
