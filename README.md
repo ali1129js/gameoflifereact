@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+Source Code  [Here](https://github.com/ali1129js/gameoflife)
 
 ## Following [React Project Tutorial - Game of Life](https://www.youtube.com/watch?v=PM0_Er3SvFQ)
 
